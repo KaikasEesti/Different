@@ -4,7 +4,7 @@ public class StatisticService {
     /**
      * Calculate index of max income
      *
-     * @param incomes - array of incimes
+     * @param incomes - array of incomes
      * @return - index of first max value
      */
     public long findMax(long[] incomes) {
