@@ -16,4 +16,3 @@ public class StatisticService {
         return current_max;
     }
 }
-
